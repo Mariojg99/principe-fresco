@@ -1,0 +1,18 @@
+body {
+    background: linear-gradient(to right, #f5a715, #e95215);
+}
+
+.container {
+    background: var(--white);
+}
+
+.bg-prince {
+    background-image: url(../img/fresh-prince-background.png);
+    background-size: 750px;
+    background-position: center;
+
+}
+
+.icono-red {
+    width: 25px;
+}
