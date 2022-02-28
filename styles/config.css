@@ -16,6 +16,7 @@
 
 header {
     background-color: var(--white);
+    box-shadow: 2px 2px 2px 1px #afafafb2;
 }
 .navbar {
     padding: 5px 80px 5px 0px;
@@ -28,6 +29,7 @@ header {
 
 .logo {
     width: 250px;
+    cursor: pointer;
 }
 
 .navbar-nav {
